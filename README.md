@@ -32,6 +32,6 @@ This project was created by Exadus and Ozan Gül as part of a database workshop.
 
 # 👥 Devolopers
 
-    Exadus (Umut)
+    Umut Tikbas (Exaaiser)
 
     Ozan Gül
